@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/Projects/Unreal/TP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Input/Actions/IA_SecondaryFire.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"I:/Projects/Unreal/TP/Content/HelloCunt.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/EQ/L5QTKQF0OKKLHWYS4P85NQ.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7F/FI3T1KCYT2798CIA9P7HL9.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/H9/ZNFZ9YXH9Z6PK45GPWP19Y.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FX/PF8LHHEME7RA4Q3LCYJR72.uasset",
+				"I:/Projects/Unreal/TP/Content/Boolet.uasset",
+				"I:/Projects/Unreal/TP/Content/BooletTrail.uasset",
+				"I:/Projects/Unreal/TP/Content/NewNiagaraSystem.uasset",
+				"I:/Projects/Unreal/TP/Content/NibbaraSystemSpline.uasset",
+				"I:/Projects/Unreal/TP/Content/PhysicsBullet.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/CET9VI9PCV6P2T76U2WONG.uasset",
+				"I:/Projects/Unreal/TP/Content/LaserTraceData.uasset",
+				"I:/Projects/Unreal/TP/Content/ThirdPerson/Blueprints/NewNiagaraSystem.uasset",
+				"I:/Projects/Unreal/TP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MM/ASR16W40UE6ZEDB0CYR0IU.uasset"
+			]
+		}
+	]
+}
